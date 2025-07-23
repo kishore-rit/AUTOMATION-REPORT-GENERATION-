@@ -87,6 +87,6 @@ Production-ready foundation—ready for enhancements like input reading or visua
 
 *OUTPUT*:
 
-
+![Image](https://github.com/user-attachments/assets/ccae1d5b-809e-4ebe-9331-b6c55fa3fc3f)
 
 
